@@ -1,5 +1,5 @@
-# Machine-Learning-Project
-Breast Cancer Detection and Classification
+### Machine-Learning-Project
+#### Breast Cancer Detection and Classification
 The Breast Cancer Wisconsin (Diagnostic) dataset is derived from the UCI Machine Learning Repository.
 Breast Cancer Wisconsin (Diagnostic) Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 They describe the characteristics of the cell nuclei present in the image.
